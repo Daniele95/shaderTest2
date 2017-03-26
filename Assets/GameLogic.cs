@@ -6,7 +6,6 @@ using System.Collections;
 public class GameLogic : MonoBehaviour {
 
     public GameObject sprite;
-    float bar = 0;
     float initPos;
     int IsPlayed;
     float StartTime;
